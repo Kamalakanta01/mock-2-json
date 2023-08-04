@@ -2,7 +2,7 @@
   "products":[
     {
     "name":"kurti",
-    "description:"a female full dress",
+    "description":"a female full dress",
     "gender":"female",
     "category":"kurti",
     "price":1500
